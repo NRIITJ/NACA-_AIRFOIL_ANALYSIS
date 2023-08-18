@@ -1,2 +1,2 @@
 # NACA-_AIRFOIL_ANALYSIS
-Force and Moment calculation on airfoil. Airfoil made with cosine clustering.
+Force and Moment calculations on the airfoil. Airfoil made with cosine clustering.
